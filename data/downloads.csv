@@ -1,0 +1,31 @@
+id,productKey,version,platform,releaseDate,fileSizeMb,isLatest,releaseNotes,downloadFileName
+DL-001,sentrywall-3200,9.4.2,Firmware,2026-06-10,412,true,Adds DNS tunneling detection and fixes a high-availability failover race condition,SentryWall-3200-firmware-9.4.2.bin
+DL-002,sentrywall-3200,9.3.0,Firmware,2025-11-02,398,false,Adds SD-WAN path quality scoring,SentryWall-3200-firmware-9.3.0.bin
+DL-003,sentrywall-3200,9.2.5,Firmware,2025-04-18,385,false,Security patch for TLS 1.3 handshake handling,SentryWall-3200-firmware-9.2.5.bin
+DL-004,sentrywall-7400,9.4.2,Firmware,2026-06-12,512,true,Adds DNS tunneling detection and fixes a high-availability failover race condition,SentryWall-7400-firmware-9.4.2.bin
+DL-005,sentrywall-7400,9.3.0,Firmware,2025-11-05,498,false,Adds SD-WAN path quality scoring,SentryWall-7400-firmware-9.3.0.bin
+DL-006,sentrywall-virtual,9.4.2,OVA,2026-06-10,1240,true,Adds DNS tunneling detection and fixes a high-availability failover race condition,SentryWall-Virtual-9.4.2.ova
+DL-007,sentrywall-virtual,9.4.2,Docker,2026-06-10,610,true,Adds DNS tunneling detection and fixes a high-availability failover race condition,sentrywall-virtual-9.4.2-docker.tar.gz
+DL-008,sentrywall-virtual,9.3.0,OVA,2025-11-02,1198,false,Adds SD-WAN path quality scoring,SentryWall-Virtual-9.3.0.ova
+DL-009,sentrywall-manager,6.1.0,Windows,2026-05-01,340,true,Adds bulk firmware rollout scheduling and audit log export,SentryWall-CentralManager-6.1.0-win-x64.exe
+DL-010,sentrywall-manager,6.1.0,Linux,2026-05-01,298,true,Adds bulk firmware rollout scheduling and audit log export,SentryWall-CentralManager-6.1.0-linux-x64.run
+DL-011,sentrywall-manager,6.0.4,Windows,2025-10-14,322,false,Fixes a policy diff rendering issue,SentryWall-CentralManager-6.0.4-win-x64.exe
+DL-012,aegis-endpoint,14.2.1,Windows,2026-07-01,88,true,Improves ransomware rollback speed and reduces idle CPU usage,Aegis-Endpoint-14.2.1-win-x64.msi
+DL-013,aegis-endpoint,14.2.1,macOS,2026-07-01,76,true,Improves ransomware rollback speed and reduces idle CPU usage,Aegis-Endpoint-14.2.1-macos.pkg
+DL-014,aegis-endpoint,14.2.1,Linux,2026-07-01,64,true,Improves ransomware rollback speed and reduces idle CPU usage,Aegis-Endpoint-14.2.1-linux-x64.deb
+DL-015,aegis-endpoint,14.0.8,Windows,2026-01-15,82,false,Adds tamper-protection policy enforcement,Aegis-Endpoint-14.0.8-win-x64.msi
+DL-016,aegis-mobile,3.5.0,iOS,2026-06-20,42,true,Improves jailbreak detection accuracy,Aegis-Mobile-3.5.0.ipa
+DL-017,aegis-mobile,3.5.0,Android,2026-06-20,38,true,Improves jailbreak detection accuracy,Aegis-Mobile-3.5.0.apk
+DL-018,argus-xdr,5.9.0,Windows,2026-07-10,96,true,Adds process-tree streaming to reduce detection latency,Argus-XDR-Sensor-5.9.0-win-x64.msi
+DL-019,argus-xdr,5.9.0,Linux,2026-07-10,71,true,Adds process-tree streaming to reduce detection latency,Argus-XDR-Sensor-5.9.0-linux-x64.deb
+DL-020,argus-xdr,5.7.2,Windows,2026-02-01,90,false,Fixes memory usage growth on long-running hosts,Argus-XDR-Sensor-5.7.2-win-x64.msi
+DL-021,meridian-client,2.8.3,Windows,2026-06-28,54,true,Adds automatic PoP failover and posture check retry logic,Meridian-Client-2.8.3-win-x64.exe
+DL-022,meridian-client,2.8.3,macOS,2026-06-28,51,true,Adds automatic PoP failover and posture check retry logic,Meridian-Client-2.8.3-macos.pkg
+DL-023,meridian-client,2.7.0,Windows,2025-12-11,49,false,Adds split-tunneling configuration profiles,Meridian-Client-2.7.0-win-x64.exe
+DL-024,bastion-siem,1.9.4,Linux,2026-05-20,28,true,Adds prebuilt parsers for two additional identity providers,BastionSIEM-Connector-1.9.4-linux-x64.tar.gz
+DL-025,bastion-siem,1.9.4,Docker,2026-05-20,34,true,Adds prebuilt parsers for two additional identity providers,bastionsiem-connector-1.9.4-docker.tar.gz
+DL-026,bastion-siem,1.8.0,Linux,2025-09-30,25,false,Initial GA release of the connector,BastionSIEM-Connector-1.8.0-linux-x64.tar.gz
+DL-027,irongate-vpn500,4.3.1,Firmware,2026-04-15,210,true,Adds active-passive failover health checks,IronGate-VPN500-firmware-4.3.1.bin
+DL-028,irongate-vpn500,4.2.0,Firmware,2025-08-01,198,false,Security patch for IKEv2 negotiation handling,IronGate-VPN500-firmware-4.2.0.bin
+DL-029,sentinel-mail,1.4.0,Windows,2026-03-05,12,true,Adds Outlook add-in support for one-click phishing reporting,Sentinel-Mail-OutlookConnector-1.4.0-win-x64.msi
+DL-030,sentinel-mail,1.3.2,Windows,2025-08-20,11,false,Fixes a connector authentication token refresh bug,Sentinel-Mail-OutlookConnector-1.3.2-win-x64.msi

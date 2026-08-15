@@ -1,0 +1,6 @@
+id,name,description,permissions,isCustom
+role-owner,Account Owner,"Full administrative control over the account, billing, and team",products.view|purchases.view|purchases.manage|downloads.download|entitlements.view|team.view|team.manage|roles.manage|billing.manage,false
+role-itadmin,IT Administrator,"Manage products, downloads, and entitlements; cannot manage billing",products.view|purchases.view|downloads.download|entitlements.view|team.view,false
+role-secanalyst,Security Analyst,Read access to products and entitlements plus software downloads,products.view|downloads.download|entitlements.view,false
+role-billingviewer,Billing Viewer,"Read-only access to purchases and entitlements, no downloads",purchases.view|entitlements.view,false
+role-socreadonly,SOC Read-Only,"Custom role: dashboard and product visibility only, no downloads or purchase data",products.view|entitlements.view,true

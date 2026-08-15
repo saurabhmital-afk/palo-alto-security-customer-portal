@@ -1,0 +1,5 @@
+id,name,tagline,specialty,region,icon,rating,yearsPartnered
+res-1,TechReseller Inc.,"Full-service reseller for hardware, software, and subscription security products",Enterprise Security Reseller,North America,bi-shop-window,4.8,6
+res-2,Meridian IT Solutions,Specialized in cloud security and SASE deployments,Cloud & SASE Specialist,North America,bi-cloud-fill,4.6,3
+res-3,Global Secure Partners,International reseller network spanning EMEA and APAC,Global Enterprise Reseller,EMEA / APAC,bi-globe2,4.5,4
+res-4,Vertex Technology Group,Boutique reseller focused on mid-market security programs,Mid-Market Specialist,North America,bi-diagram-3-fill,4.7,2

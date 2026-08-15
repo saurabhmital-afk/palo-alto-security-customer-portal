@@ -1,0 +1,15 @@
+id,date,actorName,category,text
+act-01,2026-08-12,Dana Whitfield,purple,Invited <strong>ana.delgado@ridgelinefg.com</strong> as IT Administrator
+act-02,2026-08-11,Marcus Lee,blue,Downloaded <strong>Aegis Endpoint Protection</strong> agent v14.2.1 for Windows
+act-03,2026-08-10,System,amber,<strong>CloudWarden CSPM</strong> entitlement renews in 9 days
+act-04,2026-08-09,Priya Nair,blue,Downloaded <strong>SentryWall Central Manager</strong> installer v6.1.0
+act-05,2026-08-05,Dana Whitfield,purple,Invited <strong>jordan.pierce@ridgelinefg.com</strong> as Security Analyst
+act-06,2026-08-01,System,green,"Renewed <strong>Aegis Endpoint Protection</strong> (300 seats, annual)"
+act-07,2026-07-28,Grace Kim,blue,Downloaded <strong>Argus XDR</strong> agent v5.9.0 for Linux
+act-08,2026-07-20,System,green,"Purchased add-on seats for <strong>Sentinel Mail Security</strong> (40 seats)"
+act-09,2026-07-15,Sam O'Connor,purple,Viewed entitlement details for <strong>Argus XDR Forensics Add-on</strong>
+act-10,2026-07-10,Marcus Lee,purple,Revoked pending invite for <strong>ryan.mosley@ridgelinefg.com</strong>
+act-11,2026-06-28,Naomi Chen,blue,Downloaded <strong>Meridian Remote Access Client</strong> v2.8.3 for macOS
+act-12,2026-06-20,System,amber,<strong>Theo Brandt</strong> access suspended (offboarding)
+act-13,2026-06-01,System,green,<strong>Felicia Tan</strong> accepted invitation and joined as Security Analyst
+act-14,2026-05-25,Dana Whitfield,green,"Renewed <strong>Meridian SASE</strong> (450 seats, annual)"

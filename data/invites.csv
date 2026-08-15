@@ -1,0 +1,5 @@
+id,email,roleId,invitedBy,invitedDate,expiresDate,status
+inv-001,jordan.pierce@ridgelinefg.com,role-secanalyst,Dana Whitfield,2026-08-05,2026-08-19,pending
+inv-002,ana.delgado@ridgelinefg.com,role-itadmin,Dana Whitfield,2026-08-08,2026-08-22,pending
+inv-003,ryan.mosley@ridgelinefg.com,role-billingviewer,Marcus Lee,2026-07-10,2026-07-24,expired
+inv-004,felicia.tan@ridgelinefg.com,role-secanalyst,Dana Whitfield,2026-06-01,2026-06-15,accepted
